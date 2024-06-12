@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Note:
+From now on, actually this side project will be learned directly from the "Getting Started with Rails" from Rails doc, not from Udemy anymore. Let's go!
